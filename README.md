@@ -45,14 +45,14 @@ In this application, we have a total of 10 microservices:
 
 | Microservice         | Local Port |
 |----------------------|------------|
-| Api-Gateway          |        |
-| Eureka-Server-MS     |        |
-| Course-MS            |        |
-| Review-MS            |        |
-| blog-MS              |        |
-| Event-MS             |        |
-| Product-MS           |        |
-| Cart/commande-MS     |        |
+| Api-Gateway          |  8011      |
+| Eureka-Server-MS     |  8761      |
+| Course-MS            |  8086      |
+| Review-MS            |  8085      |
+| blog-MS              |  8087      |
+| Event-MS             |  8088      |
+| Product-MS           |  8084      |
+| Cart/commande-MS     |  8083      |
 
 ## How to Run This Application
 
